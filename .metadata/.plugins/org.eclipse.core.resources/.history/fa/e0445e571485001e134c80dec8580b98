@@ -1,0 +1,1 @@
+log4j.logger.freemarker.cache = INFO, CONSOLE

@@ -1,0 +1,5 @@
+baseURL = https://demo.guru99.com/V1/
+username = mngr534177
+password = UgYzAsY
+chromepath =./Drivers\\chromedriver.exe
+firefoxpath = ./Drivers\\geckodriver.exe
